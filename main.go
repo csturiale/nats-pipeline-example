@@ -12,7 +12,7 @@ import (
 	"time"
 )
 
-const numOfPipelines = 20000
+const numOfPipelines = 5000
 
 func main() {
 
